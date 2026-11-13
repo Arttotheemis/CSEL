@@ -1,0 +1,32 @@
+{
+  "PixelEat": {
+    "seconds": 0.22,
+    "rms": 0.2,
+    "peak": 0.5461,
+    "sha256": "692e013006e4f469a487a9ac8640d2a7adf01ee1ea50493406a00e8a8e93ed28"
+  },
+  "PixelPlay": {
+    "seconds": 0.372,
+    "rms": 0.18,
+    "peak": 0.5401,
+    "sha256": "4e0f7c35dda99f877588a46b63ea1cff29a529a6f09d1c6a4a13a41d083e598d"
+  },
+  "PixelStudy": {
+    "seconds": 0.789,
+    "rms": 0.18,
+    "peak": 0.3899,
+    "sha256": "14418c7cc784da581c06b78888fdc51697fdf8646b7d66c71bf2aa012c90633e"
+  },
+  "PixelSleep": {
+    "seconds": 0.139,
+    "rms": 0.18,
+    "peak": 0.3767,
+    "sha256": "e063b1683bb3886aab003d8658ba5b6bd8bbb21e107f466774958a74290f18df"
+  },
+  "PixelWrong": {
+    "seconds": 0.828,
+    "rms": 0.2,
+    "peak": 0.7437,
+    "sha256": "992d815add62b865256d92f6c2b1950a436936879ea76677b4107709b76e492f"
+  }
+}

@@ -1,0 +1,268 @@
+267 assertions passed
+Play boundary 19.99
+Study boundary 19.99
+Sleep strict boundary 19.99
+Play boundary 20
+Study boundary 20
+Sleep strict boundary 20
+Play boundary 20.01
+Study boundary 20.01
+Sleep strict boundary 20.01
+No premature food/energy decay
+Save restores successfully
+Restoring causes no offline losses
+Save preserves partial minute
+Required 0.01 happiness decay
+Invalid save is non-destructive: 
+Invalid save is non-destructive: {}
+Invalid save is non-destructive: []
+Invalid save is non-destructive: {broken}
+Invalid save is non-destructive: {"stamina":20}
+Future save version rejected
+Legacy saves remain compatible
+Legacy values retained
+Starvation correct across multiple care ticks
+Bulk and incremental care agree
+Invalid time cannot corrupt stats
+Paused care and actions do not advance
+Care resumes after pause
+Feeding clamps all care values
+Partial study reward reports actual gain
+Full study progress gives honest feedback
+Valid distinct whole-number question 0
+Single reward question 0
+Valid distinct whole-number question 1
+Single reward question 1
+Valid distinct whole-number question 2
+Single reward question 2
+Valid distinct whole-number question 3
+Single reward question 3
+Valid distinct whole-number question 4
+Single reward question 4
+Valid distinct whole-number question 5
+Single reward question 5
+Valid distinct whole-number question 6
+Single reward question 6
+Valid distinct whole-number question 7
+Single reward question 7
+Valid distinct whole-number question 8
+Single reward question 8
+Valid distinct whole-number question 9
+Single reward question 9
+Valid distinct whole-number question 10
+Single reward question 10
+Valid distinct whole-number question 11
+Single reward question 11
+Valid distinct whole-number question 12
+Single reward question 12
+Valid distinct whole-number question 13
+Single reward question 13
+Valid distinct whole-number question 14
+Single reward question 14
+Valid distinct whole-number question 15
+Single reward question 15
+Valid distinct whole-number question 16
+Single reward question 16
+Valid distinct whole-number question 17
+Single reward question 17
+Valid distinct whole-number question 18
+Single reward question 18
+Valid distinct whole-number question 19
+Single reward question 19
+Valid distinct whole-number question 20
+Single reward question 20
+Valid distinct whole-number question 21
+Single reward question 21
+Valid distinct whole-number question 22
+Single reward question 22
+Valid distinct whole-number question 23
+Single reward question 23
+Valid distinct whole-number question 24
+Single reward question 24
+Valid distinct whole-number question 25
+Single reward question 25
+Valid distinct whole-number question 26
+Single reward question 26
+Valid distinct whole-number question 27
+Single reward question 27
+Valid distinct whole-number question 28
+Single reward question 28
+Valid distinct whole-number question 29
+Single reward question 29
+Valid distinct whole-number question 30
+Single reward question 30
+Valid distinct whole-number question 31
+Single reward question 31
+Valid distinct whole-number question 32
+Single reward question 32
+Valid distinct whole-number question 33
+Single reward question 33
+Valid distinct whole-number question 34
+Single reward question 34
+Valid distinct whole-number question 35
+Single reward question 35
+Valid distinct whole-number question 36
+Single reward question 36
+Valid distinct whole-number question 37
+Single reward question 37
+Valid distinct whole-number question 38
+Single reward question 38
+Valid distinct whole-number question 39
+Single reward question 39
+Valid distinct whole-number question 40
+Single reward question 40
+Valid distinct whole-number question 41
+Single reward question 41
+Valid distinct whole-number question 42
+Single reward question 42
+Valid distinct whole-number question 43
+Single reward question 43
+Valid distinct whole-number question 44
+Single reward question 44
+Valid distinct whole-number question 45
+Single reward question 45
+Valid distinct whole-number question 46
+Single reward question 46
+Valid distinct whole-number question 47
+Single reward question 47
+Valid distinct whole-number question 48
+Single reward question 48
+Valid distinct whole-number question 49
+Single reward question 49
+Valid distinct whole-number question 50
+Single reward question 50
+Valid distinct whole-number question 51
+Single reward question 51
+Valid distinct whole-number question 52
+Single reward question 52
+Valid distinct whole-number question 53
+Single reward question 53
+Valid distinct whole-number question 54
+Single reward question 54
+Valid distinct whole-number question 55
+Single reward question 55
+Valid distinct whole-number question 56
+Single reward question 56
+Valid distinct whole-number question 57
+Single reward question 57
+Valid distinct whole-number question 58
+Single reward question 58
+Valid distinct whole-number question 59
+Single reward question 59
+Valid distinct whole-number question 60
+Single reward question 60
+Valid distinct whole-number question 61
+Single reward question 61
+Valid distinct whole-number question 62
+Single reward question 62
+Valid distinct whole-number question 63
+Single reward question 63
+Valid distinct whole-number question 64
+Single reward question 64
+Valid distinct whole-number question 65
+Single reward question 65
+Valid distinct whole-number question 66
+Single reward question 66
+Valid distinct whole-number question 67
+Single reward question 67
+Valid distinct whole-number question 68
+Single reward question 68
+Valid distinct whole-number question 69
+Single reward question 69
+Valid distinct whole-number question 70
+Single reward question 70
+Valid distinct whole-number question 71
+Single reward question 71
+Valid distinct whole-number question 72
+Single reward question 72
+Valid distinct whole-number question 73
+Single reward question 73
+Valid distinct whole-number question 74
+Single reward question 74
+Valid distinct whole-number question 75
+Single reward question 75
+Valid distinct whole-number question 76
+Single reward question 76
+Valid distinct whole-number question 77
+Single reward question 77
+Valid distinct whole-number question 78
+Single reward question 78
+Valid distinct whole-number question 79
+Single reward question 79
+Valid distinct whole-number question 80
+Single reward question 80
+Valid distinct whole-number question 81
+Single reward question 81
+Valid distinct whole-number question 82
+Single reward question 82
+Valid distinct whole-number question 83
+Single reward question 83
+Valid distinct whole-number question 84
+Single reward question 84
+Valid distinct whole-number question 85
+Single reward question 85
+Valid distinct whole-number question 86
+Single reward question 86
+Valid distinct whole-number question 87
+Single reward question 87
+Valid distinct whole-number question 88
+Single reward question 88
+Valid distinct whole-number question 89
+Single reward question 89
+Valid distinct whole-number question 90
+Single reward question 90
+Valid distinct whole-number question 91
+Single reward question 91
+Valid distinct whole-number question 92
+Single reward question 92
+Valid distinct whole-number question 93
+Single reward question 93
+Valid distinct whole-number question 94
+Single reward question 94
+Valid distinct whole-number question 95
+Single reward question 95
+Valid distinct whole-number question 96
+Single reward question 96
+Valid distinct whole-number question 97
+Single reward question 97
+Valid distinct whole-number question 98
+Single reward question 98
+Valid distinct whole-number question 99
+Single reward question 99
+Study timer visible
+Paused quiz preserves deadline and rejects answer
+Quiz countdown resumes
+Quiz countdown hides on result
+Care alert deferred until action ends
+Energy display agrees with sleep restriction
+Locked button matches public action restriction
+Sleep pulses do not extend music ducking
+Stamina empty bar has no fill
+Stamina empty bar has no fill
+Stamina fill stays contained at 0.01
+Stamina empty bar has no fill
+Stamina fill stays contained at 0.5
+Stamina empty bar has no fill
+Stamina fill stays contained at 1
+Learning empty bar has no fill
+Learning empty bar has no fill
+Learning fill stays contained at 0.01
+Learning empty bar has no fill
+Learning fill stays contained at 0.5
+Learning empty bar has no fill
+Learning fill stays contained at 1
+Fullness empty bar has no fill
+Fullness empty bar has no fill
+Fullness fill stays contained at 0.01
+Fullness empty bar has no fill
+Fullness fill stays contained at 0.5
+Fullness empty bar has no fill
+Fullness fill stays contained at 1
+Happiness empty bar has no fill
+Happiness empty bar has no fill
+Happiness fill stays contained at 0.01
+Happiness empty bar has no fill
+Happiness fill stays contained at 0.5
+Happiness empty bar has no fill
+Happiness fill stays contained at 1
+Phone and wide-layout previews rendered
